@@ -6,7 +6,7 @@ int main() {
     string input, output = "";
     int count = 0;
 
-    cout << "Enter 20-bit input: ";
+    cout << "Enter bit input: ";
     cin >> input;
 
     for (char bit : input) {
